@@ -51,4 +51,5 @@ li,
 p {
     color: rgb(181, 117, 241);
     font-weight: 200;
+    padding: 10px;
 }
