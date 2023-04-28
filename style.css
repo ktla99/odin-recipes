@@ -1,0 +1,9 @@
+* {
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
