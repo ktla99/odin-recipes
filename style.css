@@ -6,4 +6,35 @@
     flex-direction: column;
     align-items: center;
     padding: 15px;
+    background-color: rgb(33, 25, 77);
+}
+
+
+h1 {
+    font-weight: bold;
+    color: rgb(182, 245, 250);
+    background-image: linear-gradient(rgb(28, 55, 90),rgb(136, 46, 189),rgb(28, 55, 90));
+}
+
+
+ul {
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+li {
+    color: rgb(245, 216, 245);
+    background-image: linear-gradient(rgb(28, 55, 90),rgb(209, 153, 241),rgb(28, 55, 90));
+}
+
+a:hover {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+a {
+    color: rgb(119, 192, 197);
 }
